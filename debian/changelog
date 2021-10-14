@@ -1,3 +1,9 @@
+libdrm (2.4.107-8ubuntu1) impish; urgency=medium
+
+  * Revert adding static libs, fix flutter.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Tue, 05 Oct 2021 09:12:31 +0300
+
 libdrm (2.4.107-8) unstable; urgency=medium
 
   * rules: Forcibly disable valgrind.
