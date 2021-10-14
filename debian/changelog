@@ -1,3 +1,9 @@
+libdrm (2.4.107-8ubuntu1pop0) impish; urgency=medium
+
+  * Pop!_OS backport
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 14 Oct 2021 09:46:57 -0600
+
 libdrm (2.4.107-8ubuntu1) impish; urgency=medium
 
   * Revert adding static libs, fix flutter.
